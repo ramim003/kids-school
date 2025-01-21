@@ -30,17 +30,22 @@ body{
 
     font-size: 20px;
 
+    margin-right: 120px;
+
 
 }
 .logo{
 
     display: flex;
+
+    margin-left: 50px;
 }
 .navbar{
 
     display: flex;
 
     justify-content: space-between;
+    
 
     align-items: center;
 margin: 100px;
